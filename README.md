@@ -22,4 +22,4 @@ as the system's reliance on external components can limit the ability to make ch
 
 
 ## SOA (Service Oriented Architecture)
-<img src="images/soa1.png" alt="Girl in a jacket" width="500" height="400">
+<img src="images/soa1.png" alt="soa" width="500" height="400">
