@@ -23,3 +23,21 @@ as the system's reliance on external components can limit the ability to make ch
 
 ## SOA (Service Oriented Architecture)
 <img src="images/soa1.png" alt="soa">
+<img src="images/soa2.png" alt="soa">
+
+## Micro Service
+<img src="images/micro1.png" alt="soa">
+<img src="images/micro2.png" alt="soa">
+
+
+## Monolithic vs SOA vs Micro Service
+<img src="images/micro3.png" alt="soa">
+<img src="images/micro4.png" alt="soa">
+
+## Definition of Micro Service
+`Microservice is an approach to developing a single application as a suit of small services, each running 
+in its own process and communicating with lightweight mechanisms, built around business capabilities and 
+independently deployable by fully automated deployment machinery.`
+
+Resources :
+<a href="https://github.com/eazybytes/microservices">Visit Here</a>
