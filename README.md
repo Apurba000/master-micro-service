@@ -41,3 +41,18 @@ independently deployable by fully automated deployment machinery.`
 
 Resources :
 <a href="https://github.com/eazybytes/microservices">Visit Here</a>
+
+## Building Micro Service
+Traditional approach is develop microservice, Packaging them as WAR or EAR file.
+then deploy them in Web servers like tomcat. 
+
+Challenges : One organization can have 100 of microservices . Building, packaging and deploying all
+of them in traditional approach is quite impossible. 
+
+Solution : Spring Boot. 
+
+## Why Spring Boot For Microservices
+<img src="images/spring1.png" alt="soa">
+<img src="images/spring2.png" alt="soa">
+
+Ideal Learning path should be : IOC/DI > Spring Core > Spring MVC > Spring Boot
